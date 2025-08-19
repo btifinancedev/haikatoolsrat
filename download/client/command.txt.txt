@@ -1,0 +1,11 @@
+Run this command in the folder of the client app
+
+../Server/Cloner/ResourceHacker.exe -open "client.exe" -save "app.exe" -action addoverwrite -res "logo.ico" -mask ICONGROUP,1
+
+
+Convert logo to ico from:
+
+https://cloudconvert.com/png-to-ico
+
+
+Remember to name logo as small letter "l" : "logo"
